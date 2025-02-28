@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Documenti"
+  name = "chi siamo"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
+  name = "cenni storici"
   pageRef = "docs/shortcodes"
   weight = 15
 

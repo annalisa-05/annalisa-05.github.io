@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 2
-title = "Blowfish"
+title = "memesis"
 
 [params]
   displayName = "Italiano"
@@ -9,13 +9,13 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "Un potente, leggero tema."
+  description = "i meme che hanno segnato la storia"
 
 [params.author]
-  name = "Blowfish"
+  name = "memesis"
   image = "img/blowfish_logo.png"
-  headline = "Un potente, leggero tema."
-  bio = "Un potente, leggero tema."
+  headline = "i meme che hanno segnato la storia"
+  bio = "i meme che hanno segnato la storia"
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },
