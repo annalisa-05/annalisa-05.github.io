@@ -404,32 +404,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/blowfish/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/it/tags/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/tags/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/blowfish/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/categories/blowfish/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -453,6 +427,32 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/categories/blowfish/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/blowfish/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/tags/blowfish/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/tags/blowfish/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/blowfish/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/blowfish/"
     />
   </url>
   <url>
@@ -847,27 +847,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/icons/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/it/tags/icons/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/tags/icons/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/icons/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/samples/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -891,6 +870,27 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/samples/icons/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/icons/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/tags/icons/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/tags/icons/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/icons/"
     />
   </url>
   <url>
@@ -967,32 +967,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/it/tags/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/tags/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/markdown/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/samples/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -1016,6 +990,32 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/samples/markdown/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/tags/markdown/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/tags/markdown/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/markdown/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/markdown/"
     />
   </url>
   <url>
@@ -1750,31 +1750,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/documentation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/series/documentation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/it/series/documentation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/series/documentation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/series/documentation/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/docs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -1798,6 +1773,31 @@
       hreflang="en"
       href="http://localhost:1313/docs/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/series/documentation/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/series/documentation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/series/documentation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/series/documentation/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/documentation/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/doll-photography/</loc>
@@ -2190,26 +2190,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/series/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/it/tags/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/tags/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/series/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -2232,6 +2212,26 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/series/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/series/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/tags/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/tags/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/series/"
     />
   </url>
   <url>
