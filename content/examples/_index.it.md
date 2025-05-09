@@ -1,6 +1,6 @@
 ---
-title: "Showcase"
-description: "See what's possible with Blowfish."
+title: "italian core"
+description: "meme italiani iconici"
 
 showLikes: true
 showViews: true

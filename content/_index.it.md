@@ -22,4 +22,3 @@ description: "Questa pagina è stata creata utilizzando il tema Blowfish per Hug
 npx blowfish-tools
 ```  
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Demo degli strumenti Blowfish" >}}
