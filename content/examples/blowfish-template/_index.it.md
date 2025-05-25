@@ -1,5 +1,5 @@
 ---
-title: "Blowfish Template"
-date: 2020-11-06
-externalUrl: "https://nunocoracao.github.io/blowfish_template/"
+title: "Speciali è"
+date: 2025-05-25
+externalUrl: "https://www.youtube.com/watch?v=1M71-BusjuI"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "italian core"
-description: "meme italiani iconici"
+title: "Italian core"
+description: "Alcuni dei meme italiani più iconici"
 
 showLikes: true
 showViews: true
@@ -14,9 +14,9 @@ cascade:
 ---
 
 {{< lead >}}
-See what's possible with Blowfish.
+I meme italiani iconici.
 {{< /lead >}}
 
-This section contains links to example templates and pages created using Blowfish to get you inspired.
+Questa sezione contiene alcuni dei meme italiani più iconici e divertenti. Clicca il meme che più ti intriga e goditi lo spettacolo XD. 
 
 ---
