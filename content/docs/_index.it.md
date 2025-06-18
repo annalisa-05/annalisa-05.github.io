@@ -25,4 +25,3 @@ I meme politici sono ampiamente diffusi e spesso influenzano l’opinione pubbli
 
 
 
-Questa sezione contiene tutto ciò che devi sapere su Blowfish. Se sei nuovo, consulta la guida [Installazione]({{< ref "docs/installation" >}}) per iniziare o visita la sezione [Esempi]({{< ref "samples" >}}) per vedere cosa può fare Blowfish.

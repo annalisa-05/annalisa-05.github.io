@@ -1,6 +1,6 @@
 ---
-title: "no sense"
-description: "suggerisce già il titolo"
+title: 
+description: 
 
 cascade:
   showEdit: false
@@ -12,6 +12,3 @@ cascade:
 nm
 {{< /lead >}}
 
-Questa sezione contiene alcuni dei meme giornalistici più divertenti che hanno lasciato un'impronta importante nella società.
-
-_**Nota a margine:** inserire i meme relativi

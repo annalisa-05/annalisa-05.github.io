@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blowfish</title>
+    <title>Tag on Memesis</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
+    <description>Recent content in Tag on Memesis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2025 Blowfish</copyright>
+    <language>it</language>
+    <copyright>© 2025 Memesis</copyright>
     <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blowfish</title>
       <link>http://localhost:1313/tags/blowfish/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/blowfish/</guid>
       <description></description>
       
@@ -25,7 +23,7 @@
       <title>Hugo</title>
       <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
       
@@ -35,7 +33,7 @@
       <title>Tutorial</title>
       <link>http://localhost:1313/tags/tutorial/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
       
@@ -45,7 +43,7 @@
       <title>Authors</title>
       <link>http://localhost:1313/tags/authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/authors/</guid>
       <description></description>
       
@@ -55,7 +53,7 @@
       <title>Sample</title>
       <link>http://localhost:1313/tags/sample/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/sample/</guid>
       <description></description>
       
@@ -65,8 +63,28 @@
       <title>Thumbnail</title>
       <link>http://localhost:1313/tags/thumbnail/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/thumbnail/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Config</title>
+      <link>http://localhost:1313/tags/config/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/config/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>http://localhost:1313/tags/docs/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/docs/</guid>
       <description></description>
       
     </item>
@@ -75,7 +93,7 @@
       <title>Icons</title>
       <link>http://localhost:1313/tags/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/icons/</guid>
       <description></description>
       
@@ -85,8 +103,38 @@
       <title>Shortcodes</title>
       <link>http://localhost:1313/tags/shortcodes/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Users</title>
+      <link>http://localhost:1313/tags/users/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/users/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>友链</title>
+      <link>http://localhost:1313/tags/%E5%8F%8B%E9%93%BE/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%8F%8B%E9%93%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>示例</title>
+      <link>http://localhost:1313/tags/%E7%A4%BA%E4%BE%8B/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%A4%BA%E4%BE%8B/</guid>
       <description></description>
       
     </item>
@@ -95,7 +143,7 @@
       <title>Css</title>
       <link>http://localhost:1313/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
       
@@ -105,7 +153,7 @@
       <title>Html</title>
       <link>http://localhost:1313/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/html/</guid>
       <description></description>
       
@@ -115,7 +163,7 @@
       <title>Markdown</title>
       <link>http://localhost:1313/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
       
@@ -125,7 +173,7 @@
       <title>Gist</title>
       <link>http://localhost:1313/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/gist/</guid>
       <description></description>
       
@@ -135,7 +183,7 @@
       <title>Privacy</title>
       <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
       
@@ -145,7 +193,7 @@
       <title>Twitter</title>
       <link>http://localhost:1313/tags/twitter/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/twitter/</guid>
       <description></description>
       
@@ -155,7 +203,7 @@
       <title>Vimeo</title>
       <link>http://localhost:1313/tags/vimeo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/vimeo/</guid>
       <description></description>
       
@@ -165,7 +213,7 @@
       <title>Youtube</title>
       <link>http://localhost:1313/tags/youtube/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/youtube/</guid>
       <description></description>
       
@@ -175,7 +223,7 @@
       <title>Latin</title>
       <link>http://localhost:1313/tags/latin/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/latin/</guid>
       <description></description>
       
@@ -185,7 +233,7 @@
       <title>Text</title>
       <link>http://localhost:1313/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/text/</guid>
       <description></description>
       
@@ -195,7 +243,7 @@
       <title>Katex</title>
       <link>http://localhost:1313/tags/katex/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/katex/</guid>
       <description></description>
       
@@ -205,7 +253,7 @@
       <title>Maths</title>
       <link>http://localhost:1313/tags/maths/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/maths/</guid>
       <description></description>
       
@@ -215,7 +263,7 @@
       <title>Chart</title>
       <link>http://localhost:1313/tags/chart/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/chart/</guid>
       <description></description>
       
@@ -225,7 +273,7 @@
       <title>Diagram</title>
       <link>http://localhost:1313/tags/diagram/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/diagram/</guid>
       <description></description>
       
@@ -235,7 +283,7 @@
       <title>Graph</title>
       <link>http://localhost:1313/tags/graph/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/graph/</guid>
       <description></description>
       
@@ -245,7 +293,7 @@
       <title>Mermaid</title>
       <link>http://localhost:1313/tags/mermaid/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/mermaid/</guid>
       <description></description>
       
@@ -255,7 +303,7 @@
       <title>Emoji</title>
       <link>http://localhost:1313/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/emoji/</guid>
       <description></description>
       
@@ -265,18 +313,18 @@
       <title>Template</title>
       <link>http://localhost:1313/tags/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/template/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Academia</title>
-      <link>http://localhost:1313/tags/academia/</link>
+      <title>Accademia</title>
+      <link>http://localhost:1313/tags/accademia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/academia/</guid>
+      
+      <guid>http://localhost:1313/tags/accademia/</guid>
       <description></description>
       
     </item>
@@ -285,7 +333,7 @@
       <title>Advanced</title>
       <link>http://localhost:1313/tags/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/advanced/</guid>
       <description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. &amp;#x1f680;&lt;/p&gt;</description>
       
@@ -295,28 +343,28 @@
       <title>Analytics</title>
       <link>http://localhost:1313/tags/analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/analytics/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>App Site</title>
-      <link>http://localhost:1313/tags/app-site/</link>
+      <title>Autore</title>
+      <link>http://localhost:1313/tags/autore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/app-site/</guid>
+      
+      <guid>http://localhost:1313/tags/autore/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Author</title>
-      <link>http://localhost:1313/tags/author/</link>
+      <title>Autore Del Tema</title>
+      <link>http://localhost:1313/tags/autore-del-tema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/author/</guid>
+      
+      <guid>http://localhost:1313/tags/autore-del-tema/</guid>
       <description></description>
       
     </item>
@@ -325,48 +373,28 @@
       <title>Blog</title>
       <link>http://localhost:1313/tags/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Book</title>
-      <link>http://localhost:1313/tags/book/</link>
+      <title>Blog Personale</title>
+      <link>http://localhost:1313/tags/blog-personale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/book/</guid>
+      
+      <guid>http://localhost:1313/tags/blog-personale/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Business Site</title>
-      <link>http://localhost:1313/tags/business-site/</link>
+      <title>Blog Sulla Tecnologia</title>
+      <link>http://localhost:1313/tags/blog-sulla-tecnologia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/business-site/</guid>
-      <description></description>
       
-    </item>
-    
-    <item>
-      <title>College Club Site</title>
-      <link>http://localhost:1313/tags/college-club-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/college-club-site/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Comics Site</title>
-      <link>http://localhost:1313/tags/comics-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/comics-site/</guid>
+      <guid>http://localhost:1313/tags/blog-sulla-tecnologia/</guid>
       <description></description>
       
     </item>
@@ -375,28 +403,8 @@
       <title>Comments</title>
       <link>http://localhost:1313/tags/comments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/comments/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Company Site</title>
-      <link>http://localhost:1313/tags/company-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/company-site/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>http://localhost:1313/tags/config/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/config/</guid>
       <description></description>
       
     </item>
@@ -405,7 +413,7 @@
       <title>Content</title>
       <link>http://localhost:1313/tags/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/content/</guid>
       <description></description>
       
@@ -415,7 +423,7 @@
       <title>CV</title>
       <link>http://localhost:1313/tags/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/cv/</guid>
       <description></description>
       
@@ -425,48 +433,28 @@
       <title>Deployment</title>
       <link>http://localhost:1313/tags/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/deployment/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Digital Garden</title>
-      <link>http://localhost:1313/tags/digital-garden/</link>
+      <title>Documentazione</title>
+      <link>http://localhost:1313/tags/documentazione/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/digital-garden/</guid>
+      
+      <guid>http://localhost:1313/tags/documentazione/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Docs</title>
-      <link>http://localhost:1313/tags/docs/</link>
+      <title>Documenti</title>
+      <link>http://localhost:1313/tags/documenti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/docs/</guid>
-      <description></description>
       
-    </item>
-    
-    <item>
-      <title>Documentation</title>
-      <link>http://localhost:1313/tags/documentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/documentation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Doll Photography</title>
-      <link>http://localhost:1313/tags/doll-photography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/doll-photography/</guid>
+      <guid>http://localhost:1313/tags/documenti/</guid>
       <description></description>
       
     </item>
@@ -475,7 +463,7 @@
       <title>Example</title>
       <link>http://localhost:1313/tags/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/example/</guid>
       <description></description>
       
@@ -485,7 +473,7 @@
       <title>Favicons</title>
       <link>http://localhost:1313/tags/favicons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/favicons/</guid>
       <description></description>
       
@@ -495,8 +483,18 @@
       <title>Firebase</title>
       <link>http://localhost:1313/tags/firebase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/firebase/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fotografia Di Bambole</title>
+      <link>http://localhost:1313/tags/fotografia-di-bambole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fotografia-di-bambole/</guid>
       <description></description>
       
     </item>
@@ -505,38 +503,18 @@
       <title>Front Matter</title>
       <link>http://localhost:1313/tags/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/front-matter/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Game Development</title>
-      <link>http://localhost:1313/tags/game-development/</link>
+      <title>Giardino Digitale</title>
+      <link>http://localhost:1313/tags/giardino-digitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/game-development/</guid>
-      <description></description>
       
-    </item>
-    
-    <item>
-      <title>Game Site</title>
-      <link>http://localhost:1313/tags/game-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/game-site/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Games Site</title>
-      <link>http://localhost:1313/tags/games-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/games-site/</guid>
+      <guid>http://localhost:1313/tags/giardino-digitale/</guid>
       <description></description>
       
     </item>
@@ -545,7 +523,7 @@
       <title>Github</title>
       <link>http://localhost:1313/tags/github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/github/</guid>
       <description></description>
       
@@ -555,7 +533,7 @@
       <title>Homepage</title>
       <link>http://localhost:1313/tags/homepage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/homepage/</guid>
       <description></description>
       
@@ -565,7 +543,7 @@
       <title>Hosting</title>
       <link>http://localhost:1313/tags/hosting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/hosting/</guid>
       <description></description>
       
@@ -575,18 +553,18 @@
       <title>Icon</title>
       <link>http://localhost:1313/tags/icon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/icon/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Installation</title>
-      <link>http://localhost:1313/tags/installation/</link>
+      <title>Installazione</title>
+      <link>http://localhost:1313/tags/installazione/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/installation/</guid>
+      
+      <guid>http://localhost:1313/tags/installazione/</guid>
       <description></description>
       
     </item>
@@ -595,18 +573,18 @@
       <title>Layouts</title>
       <link>http://localhost:1313/tags/layouts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/layouts/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Lead</title>
-      <link>http://localhost:1313/tags/lead/</link>
+      <title>Libro</title>
+      <link>http://localhost:1313/tags/libro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/lead/</guid>
+      
+      <guid>http://localhost:1313/tags/libro/</guid>
       <description></description>
       
     </item>
@@ -615,18 +593,18 @@
       <title>Likes</title>
       <link>http://localhost:1313/tags/likes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/likes/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Modeller</title>
-      <link>http://localhost:1313/tags/modeller/</link>
+      <title>Modellatore</title>
+      <link>http://localhost:1313/tags/modellatore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/modeller/</guid>
+      
+      <guid>http://localhost:1313/tags/modellatore/</guid>
       <description></description>
       
     </item>
@@ -635,28 +613,18 @@
       <title>Netlify</title>
       <link>http://localhost:1313/tags/netlify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/netlify/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>New</title>
-      <link>http://localhost:1313/tags/new/</link>
+      <title>Novità</title>
+      <link>http://localhost:1313/tags/novit%C3%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/new/</guid>
-      <description></description>
       
-    </item>
-    
-    <item>
-      <title>Organization Site</title>
-      <link>http://localhost:1313/tags/organization-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/organization-site/</guid>
+      <guid>http://localhost:1313/tags/novit%C3%A0/</guid>
       <description></description>
       
     </item>
@@ -665,48 +633,8 @@
       <title>Partials</title>
       <link>http://localhost:1313/tags/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/partials/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Personal Blog</title>
-      <link>http://localhost:1313/tags/personal-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/personal-blog/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Personal Site</title>
-      <link>http://localhost:1313/tags/personal-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/personal-site/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Portfolio Site</title>
-      <link>http://localhost:1313/tags/portfolio-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/portfolio-site/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Project Site</title>
-      <link>http://localhost:1313/tags/project-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/project-site/</guid>
       <description></description>
       
     </item>
@@ -715,7 +643,7 @@
       <title>Render</title>
       <link>http://localhost:1313/tags/render/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/render/</guid>
       <description></description>
       
@@ -725,68 +653,148 @@
       <title>Series</title>
       <link>http://localhost:1313/tags/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/series/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Software Developer</title>
-      <link>http://localhost:1313/tags/software-developer/</link>
+      <title>Sito Aziendale</title>
+      <link>http://localhost:1313/tags/sito-aziendale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/software-developer/</guid>
+      
+      <guid>http://localhost:1313/tags/sito-aziendale/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
+      <title>Sito Del Club Universitario</title>
+      <link>http://localhost:1313/tags/sito-del-club-universitario/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/technology/</guid>
+      
+      <guid>http://localhost:1313/tags/sito-del-club-universitario/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Technology Blog</title>
-      <link>http://localhost:1313/tags/technology-blog/</link>
+      <title>Sito Del Progetto</title>
+      <link>http://localhost:1313/tags/sito-del-progetto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/technology-blog/</guid>
+      
+      <guid>http://localhost:1313/tags/sito-del-progetto/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Theme Author</title>
-      <link>http://localhost:1313/tags/theme-author/</link>
+      <title>Sito Dell&#39;app</title>
+      <link>http://localhost:1313/tags/sito-dellapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/theme-author/</guid>
+      
+      <guid>http://localhost:1313/tags/sito-dellapp/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Users</title>
-      <link>http://localhost:1313/tags/users/</link>
+      <title>Sito Dell&#39;organizzazione</title>
+      <link>http://localhost:1313/tags/sito-dellorganizzazione/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/users/</guid>
+      
+      <guid>http://localhost:1313/tags/sito-dellorganizzazione/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Videogame Developer</title>
-      <link>http://localhost:1313/tags/videogame-developer/</link>
+      <title>Sito Di Fumetti</title>
+      <link>http://localhost:1313/tags/sito-di-fumetti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/videogame-developer/</guid>
+      
+      <guid>http://localhost:1313/tags/sito-di-fumetti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sito Di Giochi</title>
+      <link>http://localhost:1313/tags/sito-di-giochi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sito-di-giochi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sito Di Gioco</title>
+      <link>http://localhost:1313/tags/sito-di-gioco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sito-di-gioco/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sito Personale</title>
+      <link>http://localhost:1313/tags/sito-personale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sito-personale/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sito Portfolio</title>
+      <link>http://localhost:1313/tags/sito-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sito-portfolio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sviluppatore Di Software</title>
+      <link>http://localhost:1313/tags/sviluppatore-di-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sviluppatore-di-software/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sviluppatore Di Videogiochi</title>
+      <link>http://localhost:1313/tags/sviluppatore-di-videogiochi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sviluppatore-di-videogiochi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sviluppo Del Gioco</title>
+      <link>http://localhost:1313/tags/sviluppo-del-gioco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sviluppo-del-gioco/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tecnologia</title>
+      <link>http://localhost:1313/tags/tecnologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tecnologia/</guid>
       <description></description>
       
     </item>
@@ -795,7 +803,7 @@
       <title>Views</title>
       <link>http://localhost:1313/tags/views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/tags/views/</guid>
       <description></description>
       

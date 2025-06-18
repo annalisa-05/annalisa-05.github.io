@@ -1,6 +1,6 @@
 ---
 title: "Italian core"
-description: "Alcuni dei meme italiani più iconici"
+description: ""
 
 showLikes: true
 showViews: true
@@ -17,6 +17,5 @@ cascade:
 I meme italiani iconici.
 {{< /lead >}}
 
-Questa sezione contiene alcuni dei meme italiani più iconici e divertenti. Clicca il meme che più ti intriga e goditi lo spettacolo XD. 
 
 ---

@@ -4,7 +4,7 @@ weight: 13
 draft: false
 description: "Learn how to build Blowfish manually."
 slug: "advanced-customisation"
-tags: ["advanced", "css", "docs"]
+tags: ["advanced", "css"]
 series: ["Documentation"]
 series_order: 13
 ---

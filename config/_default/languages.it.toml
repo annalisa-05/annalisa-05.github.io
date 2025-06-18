@@ -13,10 +13,10 @@ title = "Memesis"
 
 [params.author]
   name = "Memesis"
-  image = "img/immagineprof.jpg"
-  headline = "I meme che hanno segnato la storia"
-  bio = "I meme che hanno segnato la storia"
+  image = "img/immagineprof.jpeg"
+  headline = "Il museo dei meme"
+  bio = "Il museo dei meme"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { youtube = "https://youtube.com/burufugu" },
+    { facebook = "https://facebook.com/nunocoracao/blowfish" },
   ]
